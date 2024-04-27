@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "package.json": "^2.0.1"
+  },
+  "name": "27--arquitectura-del-servidor-dise-o",
+  "version": "1.0.0",
+  "main": "utilsdir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "author": "Ingrid Diaz",
+  "license": "ISC",
+  "description": ""
+}
