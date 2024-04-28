@@ -1,7 +1,6 @@
 {
-  "name": "27--Arquitectura-del-servidor-Dise-o",
+  "name": "27--arquitectura-del-servidor-dise-o",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -27,5 +26,7 @@
     "nodemon": "^3.1.0",
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
