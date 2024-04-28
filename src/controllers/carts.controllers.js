@@ -34,3 +34,4 @@ export const getCartUser = async (userId) => {
         throw new Error('Error al intenar obtener el carrito: ' + error.message);
     }
 }
+
